@@ -38,5 +38,8 @@ GAN(Generative Adversarial Network) Implementation Compare
 
 ![](./readme_resource/v2model_define.png)
 
+    cf.) tf_utils.Dense
+![](./readme_resource/dense.png)
+
 ## see also :
         https://github.com/jason9693/GAN

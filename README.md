@@ -1,5 +1,5 @@
-GAN(Generative Adversarial Network) Tour
-========================================
+GAN(Generative Adversarial Network) Implementation Compare
+==========================================================
 * This repository is deal with Vanilla GAN for compare tf1.x vs tf2.x
 
 ## Vanilla GAN
